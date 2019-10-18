@@ -260,7 +260,7 @@ input::placeholder{
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 
-/*	.category{
+	.category{
 		
 		border: 1px solid gray;
 		width: 400px;
@@ -269,7 +269,7 @@ input::placeholder{
 		margin-top: 50px;
 		margin-left: 40px;
 		box-shadow: 10px 10px 5px grey;
-	}*/
+	}
 
 }
 
